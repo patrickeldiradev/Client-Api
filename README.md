@@ -33,9 +33,9 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-- Add google map key to .env
+- Add google map key to .env Note: this key will expired in 17/12/2021 days.
 ```bash
-GOOGLE_MAP_KEY=
+GOOGLE_MAP_KEY=AIzaSyA4KHI10NBkRHhGM-bQr09aADLjeftVXt4
 ```
 
 ```bash
